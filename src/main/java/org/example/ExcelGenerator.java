@@ -92,6 +92,7 @@ public class ExcelGenerator {
                 metaRow5.createCell(0).setCellValue("分区");
                 System.out.println("数据输出 :"+data);
                 System.out.println("数据输出2 :"+data);
+                System.out.println("数据输出3 :"+data);
                 metaRow5.createCell(1).setCellValue(column_name_value); // 假设 column_name 是分区
                 metaRow5.getCell(0).setCellStyle(metaStyle);
                 metaRow5.getCell(1).setCellStyle(metaStyle);
