@@ -93,6 +93,7 @@ public class ExcelGenerator {
                 System.out.println("数据输出 :"+data);
                 System.out.println("数据输出2 :"+data);
                 System.out.println("数据输出3 :"+data);
+                System.out.println("数据输出4 :"+data);
                 metaRow5.createCell(1).setCellValue(column_name_value); // 假设 column_name 是分区
                 metaRow5.getCell(0).setCellStyle(metaStyle);
                 metaRow5.getCell(1).setCellStyle(metaStyle);
