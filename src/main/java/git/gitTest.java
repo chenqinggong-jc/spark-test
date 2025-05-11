@@ -11,5 +11,6 @@ public class gitTest {
         System.out.println("hello git7");
         System.out.println("hello git 8 main 第一次修改");
         System.out.println("hello git 8 main 第二次修改");
+        System.out.println("hello git 8 main 第三次修改");
     }
 }
