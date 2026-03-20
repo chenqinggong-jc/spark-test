@@ -2,7 +2,7 @@ package org.example;
 
 public class Test {
     public static void main(String[] args) {
-        String str = "ffsa7f8safdsgds97fds";
+        String str = "gfregasgfsgds";
         if (isContainNumber(str)) {
             System.out.println("包含数字");
         } else {
